@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1579853530,,"wq"
+|2,0,1579854256,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,36 @@
 # Registers:
 
 # File marks:
-'0  1  23  ~/ss
-|4,48,1,23,1579853530,"~/ss"
-'1  33  0  ~/copyright
-|4,49,33,0,1579852735,"~/copyright"
-'2  13  0  ~/Home.java
-|4,50,13,0,1579851564,"~/Home.java"
-'3  9  6  ~/index.html
-|4,51,9,6,1579851346,"~/index.html"
+'0  1  41  ~/cd
+|4,48,1,41,1579854256,"~/cd"
+'1  1  23  ~/ss
+|4,49,1,23,1579853530,"~/ss"
+'2  33  0  ~/copyright
+|4,50,33,0,1579852735,"~/copyright"
+'3  13  0  ~/Home.java
+|4,51,13,0,1579851564,"~/Home.java"
+'4  9  6  ~/index.html
+|4,52,9,6,1579851346,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  41  ~/cd
+|4,39,1,41,1579854256,"~/cd"
+-'  1  23  ~/ss
+|4,39,1,23,1579853530,"~/ss"
 -'  1  23  ~/ss
 |4,39,1,23,1579853530,"~/ss"
 -'  33  0  ~/copyright
 |4,39,33,0,1579852735,"~/copyright"
 -'  33  0  ~/copyright
 |4,39,33,0,1579852735,"~/copyright"
+-'  33  0  ~/copyright
+|4,39,33,0,1579852735,"~/copyright"
+-'  33  0  ~/copyright
+|4,39,33,0,1579852735,"~/copyright"
+-'  1  0  ~/copyright
+|4,39,1,0,1579852724,"~/copyright"
+-'  1  0  ~/copyright
+|4,39,1,0,1579852724,"~/copyright"
 -'  1  0  ~/copyright
 |4,39,1,0,1579852724,"~/copyright"
 -'  1  0  ~/copyright
@@ -53,6 +67,22 @@
 |4,39,13,0,1579851564,"~/Home.java"
 -'  13  0  ~/Home.java
 |4,39,13,0,1579851564,"~/Home.java"
+-'  13  0  ~/Home.java
+|4,39,13,0,1579851564,"~/Home.java"
+-'  13  0  ~/Home.java
+|4,39,13,0,1579851564,"~/Home.java"
+-'  13  0  ~/Home.java
+|4,39,13,0,1579851564,"~/Home.java"
+-'  13  0  ~/Home.java
+|4,39,13,0,1579851564,"~/Home.java"
+-'  1  0  ~/Home.java
+|4,39,1,0,1579851552,"~/Home.java"
+-'  1  0  ~/Home.java
+|4,39,1,0,1579851552,"~/Home.java"
+-'  1  0  ~/Home.java
+|4,39,1,0,1579851552,"~/Home.java"
+-'  1  0  ~/Home.java
+|4,39,1,0,1579851552,"~/Home.java"
 -'  1  0  ~/Home.java
 |4,39,1,0,1579851552,"~/Home.java"
 -'  1  0  ~/Home.java
@@ -77,6 +107,38 @@
 |4,39,9,6,1579851346,"~/index.html"
 -'  9  6  ~/index.html
 |4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  9  6  ~/index.html
+|4,39,9,6,1579851346,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579851316,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1579851316,"~/index.html"
 -'  1  0  ~/index.html
@@ -95,6 +157,13 @@
 |4,39,1,0,1579851316,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/cd
+	*	1579854253	0
+	"	1	41
+	^	1	42
+	.	1	41
+	+	1	41
 
 > ~/ss
 	*	1579853528	0
