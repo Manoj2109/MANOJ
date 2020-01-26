@@ -37,3 +37,35 @@ pwd
 sudo su
 pwd
 sudo su
+git remote add origin https://github.com/Manoj2109/MANOJ.git
+git init
+git remote add origin https://github.com/Manoj2109/MANOJ.git
+
+git remote add jai https://github.com/Manoj2109/MANOJ.git
+git push jai master
+git remote add jai https://github.com/Manoj2109/MANOJ.git
+git status
+git commit -m "firstcommit"
+git commit -m "first commit"
+git add.
+git add .
+git status
+git commit -m "first commit"
+git status
+git push jai master
+vi kumar
+ls
+git status
+git add kumar
+git commit -m "secondcommit"
+git status
+ls
+git status
+git commit -m "third"
+git add .
+git status
+git commit -m "f1"
+git push jai master
+vi cm
+vi index.html
+vi cm
