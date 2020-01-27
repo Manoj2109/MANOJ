@@ -69,3 +69,82 @@ git push jai master
 vi cm
 vi index.html
 vi cm
+pwd
+sudo su
+git status
+git add .
+git staus
+git status
+git commit -m "f2"
+git push origin master
+vi .gitignore
+git status
+ls
+git add .
+git commit -m "f4"
+git push jai master
+git status
+git log cm
+mkdir devops
+cd devops
+git clone https://github.com/Manoj2109/MANOJ.git
+ls
+cd manoj
+cd manoj/
+cd MANOJ/
+ls
+ls -la
+cd ..
+cd .
+cd ..
+mkdir dev1
+mkdir dev2
+ls
+cd dev1/
+touch file1
+git clone https://github.com/Manoj2109/MANOJ.git
+cd ..
+pwd
+cd dev2/
+git clone https://github.com/Manoj2109/MANOJ.git
+ls
+cd ..
+cd dev1/
+touch f1 f2
+ls
+vi file1
+ls
+cd MANOJ/
+LS
+ls
+vi kumar
+git push jai master
+cd ..
+git push jai master
+ls
+cd ..
+cd dev2/
+ls
+cd MANOJ
+ls
+vi kumar
+ls
+touch f4
+ls
+git push jai master
+git add .
+git commit -m "fifth"
+ls
+git push jai master
+git push origin master
+cd ..
+cd dev1/
+touch f6
+ls
+git add f6
+git commit -m "a1"
+git push origin master
+git pull https://github.com/Manoj2109/MANOJ.git
+git push origin master
+ls
+sudo su
